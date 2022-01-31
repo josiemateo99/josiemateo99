@@ -1,4 +1,4 @@
-- 🌊 Hi, I’m @josiemateo99
+- 🌊 Hi, I’m @JosieMateo
 - 🐋 I’m currently learning Python, and IOS Development
 
 
