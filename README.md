@@ -1,5 +1,6 @@
 - 🌊 Hi, I’m @JosieMateo
 - 🐋 I’m currently learning Python, and IOS Development
+- 🦈 Previous Experience with: C, Java & MIPS Assembly
 
 
 <!---
