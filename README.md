@@ -1,7 +1,5 @@
 - 🌊 Hi, I’m @JosieMateo
-- 🐋 I’m currently learning Python, and IOS Development
-    - Specifically in the SwiftUI scope.
-- 🦈 Previous Experience with: Swift, C, Java & MIPS Assembly
+- 🦈 Previous Experience with: Swift, C, Java, Python & MIPS Assembly
 
 
 <!---
